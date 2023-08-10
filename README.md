@@ -1,1 +1,1 @@
-# cc.detector.opencv
+#Credit card Detector 
